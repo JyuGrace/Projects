@@ -1,0 +1,17 @@
+version: "3.8"
+services:
+  instaya-backend:
+    build: ./instaya-backend
+    container_name: back_c
+    ports:
+      - '8080:8080'
+    volumes:
+      - ./instaya-backend:/app
+     
+  instaya-front:
+    build: ./instaya-front
+    container_name: front_c
+    ports:
+      - '9001:9001'
+      
+    stdin_open: true

@@ -1,0 +1,55 @@
+
+Entrada
+Mallorquin 0 Barranquilla Laguna Dulce 30
+Magdalena 1 Barranquilla Rio Dulce 45.3
+
+Salida
+MEDIO
+ALTO
+1,00
+Mallorquin
+Mallorquin 0,00
+
+
+Entrada
+Mallorquin 0 Barranquilla Laguna Dulce 30
+Magdalena 1 Barranquilla Rio Dulce 45.3
+Amazona 2 Leticia Rio Dulce 20.2
+Tota 3 Tota Laguna Dulce 80
+
+Salida
+MEDIO
+ALTO
+MEDIO
+ALTO
+2,00
+Mallorquin
+Amazona
+Amazona 2,00
+
+Entrada
+Mallorquin 0 Barranquilla Laguna Dulce 30
+Magdalena 1 Barranquilla Rio Dulce 2
+Amazona 2 Leticia Rio Dulce 20.2
+
+Salida
+MEDIO
+SIN RIESGO
+MEDIO
+3,00
+Mallorquin
+Amazona
+Magdalena 1,00
+
+Entrada
+Magdalena 0 Barranquilla Rio Dulce 50
+Amazona 1 Leticia Rio Dulce 12
+Bogota 2 Bogota Rio Dulce 15
+
+Salida
+ALTO
+BAJO
+MEDIO
+2,00
+Bogota
+Amazona 1,00
