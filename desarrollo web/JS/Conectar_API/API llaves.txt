@@ -1,0 +1,14 @@
+v3
+
+llave:
+ece6da2757c4cb9785df25b1c3575a60
+
+ejemplo
+https://api.themoviedb.org/3/movie/550?api_key=ece6da2757c4cb9785df25b1c3575a60
+
+
+
+v4
+
+token:
+eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJlY2U2ZGEyNzU3YzRjYjk3ODVkZjI1YjFjMzU3NWE2MCIsInN1YiI6IjYzY2RlYTFkZTI0YjkzMDA5YjlkNTEyNCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.fAoOeHjvma-nXuqEJ4lPyfih__UMUH1-soQvM7I_9kk
